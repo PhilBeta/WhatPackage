@@ -1,6 +1,5 @@
 # WhatPackage (wtpk)
 A ChatGPT Package Discovery Tool
-Programmed By Phil Beta
 
 How to use:
 Export your OpenAI API key into an environment variable named WTPK_API_KEY. Run this script and input the task you're trying to complete. WhatPackage will list 1-10 relevant packages available for your current environment. Enter number to install. 
