@@ -14,8 +14,8 @@
 # Easy start: uncomment the line below and paste your OpenAI API key.
 # WTPK_API_KEY=
 
-WTPK_SHOW_REQUEST_PHRASE=1
-WTPK_SHOW_RAW_RESPONSE=1
+WTPK_SHOW_REQUEST_PHRASE=0
+WTPK_SHOW_RAW_RESPONSE=0
 WTPK_MODEL="gpt-3.5-turbo"
 WTPK_TEMPERATURE="1.0"
 
